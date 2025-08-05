@@ -2,8 +2,6 @@
 
 ## Overview
 
----
-
 This is a food delivery project built using NestJS as the backend framework and React Native as the frontend framework. The project allows users to browse and order food from various restaurants, and also provides features for restaurants to manage their menus and orders.
 
 ### Features
@@ -15,9 +13,9 @@ This is a food delivery project built using NestJS as the backend framework and 
 - **Payment processing using Stripe**
 - **Real-time updates using WebSockets**
 
-## Technologies Used
-
 ---
+
+## Technologies Used
 
 - **NestJS** (Backend Framework)
 - **React Native** (Frontend Framework)
@@ -25,9 +23,9 @@ This is a food delivery project built using NestJS as the backend framework and 
 - **Stripe** (Payment Gateway)
 - **WebSockets** (Real-time updates)
 
-## Project Structure
-
 ---
+
+## Project Structure
 
 The project is divided into two main folders: `server` and `client`.
 
@@ -39,9 +37,9 @@ The project is divided into two main folders: `server` and `client`.
 
 - `client`: This folder contains the React Native frontend code, including the app components, navigation, and services.
 
-## Installation
-
 ---
+
+## Installation
 
 To install the project, follow these steps:
 
@@ -50,9 +48,3 @@ To install the project, follow these steps:
 3. **Create a new PostgreSQL database** and update the `DATABASE_URL` environment variable in the [server/.env] file.
 4. **Start the server** using `npm run start` or `yarn start`.
 5. **Start the client** using `npm run start` or `yarn start` in the `client` folder.
-
-## License
-
----
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
