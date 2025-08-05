@@ -1,7 +1,5 @@
 # Food Delivery Project
 
-=======================
-
 ## Overview
 
 ---
@@ -49,21 +47,9 @@ To install the project, follow these steps:
 
 1. **Clone the repository** using `git clone`.
 2. **Install the dependencies** using `npm install` or `yarn install`.
-3. **Create a new PostgreSQL database** and update the `DATABASE_URL` environment variable in the [server/.env](cci:7://file:///c:/Users/user/Documents/_PROJECTS/_PET/react-native-food-delivery/server/.env:0:0-0:0) file.
+3. **Create a new PostgreSQL database** and update the `DATABASE_URL` environment variable in the [server/.env] file.
 4. **Start the server** using `npm run start` or `yarn start`.
 5. **Start the client** using `npm run start` or `yarn start` in the `client` folder.
-
-## API Documentation
-
----
-
-The API documentation is generated using Swagger and can be accessed at `http://localhost:3000/api/docs`.
-
-## Contributing
-
----
-
-Contributions are welcome! Please submit a pull request with a clear description of the changes made.
 
 ## License
 
