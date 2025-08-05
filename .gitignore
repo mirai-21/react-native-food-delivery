@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+server/.env
+client/.env
+server/logs/
+client/logs/
+server/tmp/
+client/tmp/
